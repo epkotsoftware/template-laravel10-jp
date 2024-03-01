@@ -45,10 +45,10 @@ Dockerを使って環境を構築します。
 ### 構築する環境
 
 - Webコンテナ
-  - [php:8.2.3-apache](https://hub.docker.com/_/php)
-  - [composer:2.5.4](https://hub.docker.com/_/composer)
+  - [php:8.2.16-apache](https://hub.docker.com/_/php)
+  - [composer:2.7.1](https://hub.docker.com/_/composer)
 - DBコンテナ
-  - [mysql:8.0.32](https://hub.docker.com/_/mysql)
+  - [mysql:8.0.36](https://hub.docker.com/_/mysql)
 - phpMyAdminコンテナ
   - [phpmyadmin:5.2.1](https://hub.docker.com/_/phpmyadmin)
 
